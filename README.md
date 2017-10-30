@@ -4,6 +4,9 @@
 Componente:
 List of Video playlists
 Video playlist
+Video Search
+Add to playlist(s)
+Edit playlist - remove videos, reorder
 
 Apeluri API:
 GET /list
